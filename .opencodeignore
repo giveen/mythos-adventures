@@ -1,0 +1,11 @@
+node_modules/
+**/node_modules/
+backup/
+dist/
+build/
+out/
+coverage/
+*.db
+*.sqlite
+*.sqlite3
+**/.bin/

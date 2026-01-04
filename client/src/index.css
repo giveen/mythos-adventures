@@ -1,0 +1,158 @@
+@import "./styles/global.css";
+/* index.css — global reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Optional overlay for readability */
+#root {
+  background: var(--bg-overlay);
+  min-height: 100vh;
+  padding-bottom: 40px;
+}
+
+/* Main centered container for home content */
+.main-container {
+  margin: 48px auto;
+  max-width: 1100px;
+  display: grid;
+  grid-template-columns: 1fr 380px;
+  gap: 24px;
+  align-items: start;
+  padding: 0 16px;
+}
+
+/* Response box, chatbox, and modal styles moved to global.css */
+
+/* Responsive: stack columns on smaller screens */
+@media (max-width: 860px) {
+  .main-container {
+    grid-template-columns: 1fr;
+    max-width: 760px;
+    margin: 24px auto;
+  }
+
+  .response-box {
+    min-height: 160px;
+  }
+
+  .chatbox-input {
+    min-height: 96px;
+  }
+}
+
+@media (max-width: 420px) {
+  .response-box {
+    padding: 12px;
+    font-size: 14px;
+  }
+
+  .chatbox-input {
+    min-height: 80px;
+    font-size: 14px;
+  }
+}
+
+/* Modal styles for session history */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.modal-card {
+  background: #161616;
+  border: 1px solid #333;
+  padding: 16px;
+  width: min(920px, 95%);
+  max-height: 84vh;
+  overflow: auto;
+  border-radius: 10px;
+}
+
+.session-messages {
+  background: #0f0f0f;
+  padding: 8px;
+  border-radius: 6px;
+  max-height: 40vh;
+  overflow: auto;
+}
+
+.session-message {
+  padding: 6px 8px;
+  border-bottom: 1px dashed rgba(255,255,255,0.03);
+}
+
+.session-message.assistant {
+  background: rgba(255,255,255,0.01);
+}
+
+.summary-pre {
+  background: #0b0b0b;
+  padding: 10px;
+  border-radius: 6px;
+  white-space: pre-wrap;
+}
+
+button {
+  padding: var(--btn-padding);
+  background: linear-gradient(135deg, var(--btn-bg-1), var(--btn-bg-2));
+  color: var(--btn-color);
+  border: 2px solid var(--btn-border);
+  border-radius: var(--btn-radius);
+  cursor: pointer;
+  font-size: var(--btn-font-size);
+  font-family: var(--btn-font-family);
+  text-shadow: var(--btn-text-shadow);
+  transition: transform var(--btn-transition-time), box-shadow var(--btn-transition-time);
+}
+
+button:hover {
+  transform: translateY(var(--btn-hover-translate));
+  box-shadow: var(--btn-hover-shadow);
+}
+
+button:active {
+  transform: translateY(var(--btn-active-translate));
+  box-shadow: var(--btn-active-shadow);
+}
+
+/* Full header background */
+.header-bar {
+  background: linear-gradient(135deg, var(--header-bg-1), var(--header-bg-2));
+  border-bottom: 2px solid var(--btn-border);
+  padding-bottom: 10px;
+}
+
+/* Logo + title row */
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+/* Navigation bar */
+.header-nav {
+  padding: 12px 20px;
+  background: transparent;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+/* Optional: remove link underline globally */
+.header-nav a {
+  text-decoration: none;
+}

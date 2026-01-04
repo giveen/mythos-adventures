@@ -1,0 +1,19 @@
+/* global.css — loaded directly from public/index.html */
+
+body {
+  background-image: url("/background.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  /* Keep your original text color + font */
+  color: #f0f0f0;
+  font-family: system-ui, sans-serif;
+}
+
+/* Optional: dark overlay for readability */
+#root {
+  background: rgba(0, 0, 0, 0.55);
+  min-height: 100vh;
+}

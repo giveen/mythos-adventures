@@ -1,0 +1,284 @@
+id,name,category,cost,cost_gp,weight,properties,description,source
+3,Shield,,10 GP,10,6 lb.,,Imported from dnd2024 table,dnd2024
+4,Potion of Healing,"{""name"":""Potion"",""key"":""potion"",""url"":""https://api.open5e.com/v2/itemcategories/potion/""}",50 GP,50,1/2 lb.,,"This potion is a magic item. As a Bonus Action, you can drink it or administer it to another creature within 5 feet of yourself. The creature that drinks the magical red fluid in this vial regains 2d4 + 2 Hit Points.",dnd2024
+45,Net,,1 GP,1,3 lb.,,"When you take the Attack action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger. To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength (Athletics) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.",dnd2024
+46,Breastplate,,400 GP,400,20 lb.,,Imported from dnd2024 table,dnd2024
+47,Chain Mail,heavy,75 GP,75,55 lb.,,Imported from dnd2024 table,dnd2024
+48,Chain Shirt,medium,50 GP,50,20 lb.,,Imported from dnd2024 table,dnd2024
+49,Half Plate Armor,medium,750 GP,750,40 lb.,,Imported from dnd2024 table,dnd2024
+50,Hide Armor,medium,10 GP,10,12 lb.,,Imported from dnd2024 table,dnd2024
+51,Leather Armor,light,10 GP,10,10 lb.,,Imported from dnd2024 table,dnd2024
+52,Padded Armor,light,5 GP,5,8 lb.,,Imported from dnd2024 table,dnd2024
+53,Plate Armor,heavy,"1,500 GP",1500,65 lb.,,Imported from dnd2024 table,dnd2024
+54,Ring Mail,heavy,30 GP,30,40 lb.,,Imported from dnd2024 table,dnd2024
+55,Scale Mail,medium,50 GP,50,45 lb.,,Imported from dnd2024 table,dnd2024
+56,Splint Armor,heavy,200 GP,200,60 lb.,,Imported from dnd2024 table,dnd2024
+57,Studded Leather Armor,light,45 GP,45,13 lb.,,Imported from dnd2024 table,dnd2024
+924,Spell Scroll (Cantrip),"{""name"":""Scroll"",""key"":""scroll"",""url"":""https://api.open5e.com/v2/itemcategories/scroll/""}",30 GP,30,-,,"A Spell Scroll (Cantrip) is a magic item that bears the words of a cantrip determined by the scroll’s creator. If the spell is on your class’s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components. If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.",dnd2024
+2090,Alchemist's supplies,,50 GP,50,8 lb.,,Imported from dnd2024 table,dnd2024
+2091,Brewer's supplies,,20 GP,20,9 lb.,,Imported from dnd2024 table,dnd2024
+2092,Calligrapher's supplies,,10 GP,10,5 lb.,,Imported from dnd2024 table,dnd2024
+2093,Carpenter's tools,,8 GP,8,6 lb.,,Imported from dnd2024 table,dnd2024
+2094,Cartographer's tools,,15 GP,15,6 lb.,,Imported from dnd2024 table,dnd2024
+2095,Cobbler's tools,,5 GP,5,5 lb.,,Imported from dnd2024 table,dnd2024
+2096,Cook's utensils,,1 GP,1,8 lb.,,Imported from dnd2024 table,dnd2024
+2097,Glassblower's tools,,30 GP,30,5 lb.,,Imported from dnd2024 table,dnd2024
+2098,Jeweler's tools,,25 GP,25,2 lb.,,Imported from dnd2024 table,dnd2024
+2099,Leatherworker's tools,,5 GP,5,5 lb.,,Imported from dnd2024 table,dnd2024
+2100,Mason's tools,,10 GP,10,8 lb.,,Imported from dnd2024 table,dnd2024
+2101,Painter's supplies,,10 GP,10,5 lb.,,Imported from dnd2024 table,dnd2024
+2102,Potter's tools,,10 GP,10,3 lb.,,Imported from dnd2024 table,dnd2024
+2103,Smith's tools,,20 GP,20,8 lb.,,Imported from dnd2024 table,dnd2024
+2104,Tinker's tools,,50 GP,50,10 lb.,,Imported from dnd2024 table,dnd2024
+2105,Weaver's tools,,1 GP,1,5 lb.,,Imported from dnd2024 table,dnd2024
+2106,Woodcarver's tools,,1 GP,1,5 lb.,,Imported from dnd2024 table,dnd2024
+2111,Herbalism kit,,5 GP,5,3 lb.,,Imported from dnd2024 table,dnd2024
+2112,Bagpipes,,30 GP,30,6 lb.,,Imported from dnd2024 table,dnd2024
+2113,Drum,,6 GP,6,3 lb.,,Imported from dnd2024 table,dnd2024
+2114,Dulcimer,,25 GP,25,10 lb.,,Imported from dnd2024 table,dnd2024
+2115,Flute,,2 GP,2,1 lb.,,Imported from dnd2024 table,dnd2024
+2116,Lute,,35 GP,35,2 lb.,,Imported from dnd2024 table,dnd2024
+2117,Lyre,,30 GP,30,2 lb.,,Imported from dnd2024 table,dnd2024
+2118,Horn,,3 GP,3,2 lb.,,Imported from dnd2024 table,dnd2024
+2119,Pan flute,,12 GP,12,2 lb.,,Imported from dnd2024 table,dnd2024
+2120,Shawm,,2 GP,2,1 lb.,,Imported from dnd2024 table,dnd2024
+2121,Viol,,30 GP,30,1 lb.,,Imported from dnd2024 table,dnd2024
+2122,Navigator's tools,,25 GP,25,2 lb.,,Imported from dnd2024 table,dnd2024
+2123,Poisoner's kit,,50 GP,50,2 lb.,,Imported from dnd2024 table,dnd2024
+2124,Thieves' tools,,25 GP,25,1 lb.,,Imported from dnd2024 table,dnd2024
+2125,Disguise kit,,25 GP,25,3 lb.,,Imported from dnd2024 table,dnd2024
+2126,Forgery kit,,15 GP,15,5 lb.,,Imported from dnd2024 table,dnd2024
+2140,Backpack,,2 GP,2,5 lb.,,A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a saddlebag.,dnd2024
+2142,Barrel,,2 GP,2,70 lb.,,A Barrel holds up to 40 gallons of liquid or up to 4 cubic feet of dry goods.,dnd2024
+2143,Basket,,4 SP,0,2 lb.,,A Basket holds up to 40 pounds within 2 cubic feet.,dnd2024
+2144,Bedroll,,1 GP,1,7 lb.,,"A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the Dungeon Master’s Guide).",dnd2024
+2145,Bell,,1 GP,1,-,,"When rung as a Utilize action, a Bell produces a sound that can be heard up to 60 feet away.",dnd2024
+2146,Blanket,,5 SP,0,3 lb.,,"While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the Dungeon Master’s Guide).",dnd2024
+2147,Block and tackle,,1 GP,1,5 lb.,,A Block and Tackle allows you to hoist up to four times the weight you can normally lift.,dnd2024
+2148,Book,,25 GP,25,5 lb.,,"A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence (Arcana, History, Nature, or Religion) checks you make about that topic.",dnd2024
+2149,"Bottle, glass",,2 GP,2,2 lb.,,A Glass Bottle holds up to 1½ pints.,dnd2024
+2150,Bucket,,5 CP,0,2 lb.,,A Bucket holds up to half a cubic foot of contents.,dnd2024
+2152,Candle,,1 CP,0,-,,"For 1 hour, a lit Candle sheds Bright Light in a 5-foot radius and Dim Light for an additional 5 feet.",dnd2024
+2153,"Case, crossbow bolt",,1 GP,1,1 lb.,,A Crossbow Bolt Case holds up to 20 Bolts.,dnd2024
+2154,"Case, map or scroll",,1 GP,1,1 lb.,,A Map or Scroll Case holds up to 10 sheets of paper or 5 sheets of parchment.,dnd2024
+2157,Chest,,5 GP,5,25 lb.,,A Chest holds up to 12 cubic feet of contents.,dnd2024
+2158,Climber's kit,,25 GP,25,12 lb.,,"A Climber’s Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber’s Kit to anchor yourself; when you do, you can’t fall more than 25 feet from the anchor point, and you can’t move more than 25 feet from there without undoing the anchor as a Bonus Action.",dnd2024
+2161,"Clothes, fine",,15 GP,15,6 lb.,,Fine Clothes are made of expensive fabrics and adorned with expertly crafted details. Some events and locations admit only people wearing these clothes.,dnd2024
+2162,"Clothes, traveler's",,2 GP,2,4 lb.,,Traveler’s Clothes are resilient garments designed for travel in various environments.,dnd2024
+2164,Component pouch,,25 GP,25,2 lb.,,A Component Pouch is watertight and filled with compartments that hold all the free Material components of your spells.,dnd2024
+2165,Crowbar,,2 GP,2,5 lb.,,Using a Crowbar gives you Advantage on Strength checks where the Crowbar’s leverage can be applied.,dnd2024
+2172,Grappling hook,,5 GP,5,4 lb.,,"As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a Rope to the hook, you can then climb it.",dnd2024
+2175,Healer's kit,,5 GP,5,3 lb.,,"A Healer’s Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.",dnd2024
+2181,Hunting trap,,5 GP,5,25 lb.,,"As a Utilize action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a DC 13 Strength (Athletics) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.",dnd2024
+2183,Ink pen,,2 CP,0,-,,"Using Ink, an Ink Pen is used to write or draw.",dnd2024
+2186,Lamp,,5 SP,0,1 lb.,,A Lamp burns Oil as fuel to cast Bright Light in a 15-foot radius and Dim Light for an additional 30 feet.,dnd2024
+2187,"Lantern, bullseye",,10 GP,10,2 lb.,,A Bullseye Lantern burns Oil as fuel to cast Bright Light in a 60-foot Cone and Dim Light for an additional 60 feet.,dnd2024
+2188,"Lantern, hooded",,5 GP,5,2 lb.,,"A Hooded Lantern burns Oil as fuel to cast Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.",dnd2024
+2189,Lock,,10 GP,10,1 lb.,,"A Lock comes with a key. Without the key, a creature can use Thieves’ Tools to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.",dnd2024
+2190,Magnifying glass,,100 GP,100,-,,"A Magnifying Glass grants Advantage on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.",dnd2024
+2191,Manacles,,2 GP,2,6 lb.,,"As a Utilize action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action. Each set of Manacles comes with a key. Without the key, a creature can use Thieves’ Tools to pick the Manacles’ lock with a successful DC 15 Dexterity (Sleight of Hand) check.",dnd2024
+2202,"Pot, iron",,2 GP,2,10 lb.,,An Iron Pot holds up to 1 gallon.,dnd2024
+2204,Pouch,,5 SP,0,1 lb.,,A Pouch holds up to 6 pounds within one-fifth of a cubic foot.,dnd2024
+2205,Quiver,,1 GP,1,1 lb.,,A Quiver holds up to 20 Arrows.,dnd2024
+2206,"Ram, portable",,4 GP,4,35 lb.,,"You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you Advantage on this check.",dnd2024
+2211,Sack,,1 CP,0,1/2 lb.,,A Sack holds up to 30 pounds within 1 cubic foot.,dnd2024
+2214,Shovel,,2 GP,2,5 lb.,,"Working for 1 hour, you can use a Shovel to dig a hole that is 5 feet on each side in soil or similar material.",dnd2024
+2215,Signal whistle,,5 CP,0,-,,"When blown as a Utilize action, a Signal Whistle produces a sound that can be heard up to 600 feet away.",dnd2024
+2220,Spyglass,,"1,000 GP",1000,1 lb.,,Objects viewed through a Spyglass are magnified to twice their size.,dnd2024
+2222,Tinderbox,,5 SP,0,1 lb.,,"A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a Candle, Lamp, Lantern, or Torch—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.",dnd2024
+2223,Torch,,1 CP,0,1 lb.,,"A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. When you take the Attack action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.",dnd2024
+2224,Vial,,1 GP,1,-,,A Vial holds up to 4 ounces.,dnd2024
+2225,Waterskin,,2 SP,0,5 lb. (full),,"A Waterskin holds up to 4 pints. If you don’t drink sufficient water, you risk dehydration (see the rules glossary).",dnd2024
+2227,Camel,,50 GP,50,,,Imported from dnd2024 table,dnd2024
+2229,Elephant,,200 GP,200,,,Imported from dnd2024 table,dnd2024
+2230,"Horse, draft",,50 GP,50,,,Imported from dnd2024 table,dnd2024
+2231,"Horse, riding",,75 GP,75,,,Imported from dnd2024 table,dnd2024
+2232,Mastiff,,25 GP,25,,,Imported from dnd2024 table,dnd2024
+2233,Pony,,30 GP,30,,,Imported from dnd2024 table,dnd2024
+2234,Warhorse,,400 GP,400,,,Imported from dnd2024 table,dnd2024
+2237,Carriage,,100 GP,100,600 lb.,,Imported from dnd2024 table,dnd2024
+2238,Cart,,15 GP,15,200 lb.,,Imported from dnd2024 table,dnd2024
+2239,Chariot,,250 GP,250,100 lb.,,Imported from dnd2024 table,dnd2024
+2240,Feed (per day),,5 CP,0,10 lb.,,Imported from dnd2024 table,dnd2024
+2241,Exotic,,60 GP,60,40 lb.,,Imported from dnd2024 table,dnd2024
+2242,Military,,20 GP,20,30 lb.,,Imported from dnd2024 table,dnd2024
+2244,Riding,,10 GP,10,25 lb.,,Imported from dnd2024 table,dnd2024
+2246,Sled,,20 GP,20,300 lb.,,Imported from dnd2024 table,dnd2024
+2247,Stabling (per day),,5 SP,0,-,,Imported from dnd2024 table,dnd2024
+2248,Wagon,,35 GP,35,400 lb.,,Imported from dnd2024 table,dnd2024
+2255,D&D 5e (2024),,,,,[],Imported from dnd2024 http://dnd2024.wikidot.com/equipment:tool (damage: mastery:),dnd2024
+2256,Acid,,25 GP,25,1 lb.,[],"When you take the Attack action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d6 Acid damage.",dnd2024
+2257,Alchemist's Fire,,50 GP,50,1 lb.,[],"When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist’s Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see the rules glossary).",dnd2024
+2258,Ammunition,,Varies,,Varies,[],Ammunition is required by a weapon that has the Ammunition property. A weapon’s description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them.,dnd2024
+2259,Antitoxin,,50 GP,50,-,[],"As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.",dnd2024
+2260,Arcane Focus,,Varies,,Varies,[],"An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.",dnd2024
+2261,Ball Bearings,,1 GP,1,2 lb.,[],"As a Utilize action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the Prone condition. It takes 10 minutes to recover the Ball Bearings.",dnd2024
+2262,Bright Fungal Cloak,,25 GP,25,-,[],"While wearing a Bright Fungal Cloak, you can take a Bonus Action to furl or unfurl it. When the cloak is unfurled, it sheds Bright Light in a 5-foot radius and Dim Light for an additional 5 feet. One pound of fungus is sewn into a Bright Fungal Cloak. This fungus can be eaten as food. Once all the fungus is consumed, the cloak becomes a mundane set of Traveler’s Clothes.",dnd2024
+2263,Burglar's Pack,,16 GP,16,42 lb.,[],"A Burglar’s Pack contains the following items: Backpack, Ball Bearings, Bell, 10 Candles, Crowbar, Hooded Lantern, 7 flasks of Oil, 5 days of Rations, Rope, Tinderbox, and Waterskin.",dnd2024
+2264,Caltrops,,1 GP,1,2 lb.,[],"As a Utilize action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.",dnd2024
+2265,Chain,,5 GP,5,10 lb.,[],"As a Utilize action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.",dnd2024
+2266,Costume,,5 GP,5,4 lb.,[],"While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.",dnd2024
+2267,Desert Clothing,,5 GP,5,-,[],"When you are wearing Desert Clothing and not wearing Medium or Heavy armor, you automatically succeed on saving throws against the effects of extreme heat. See chapter 3 of the Dungeon Master’s Guide for rules on extreme heat.",dnd2024
+2268,Devil Mask,,25 GP,25,-,[],"While you are wearing a Devil Mask, other creatures have Disadvantage on Intelligence (Investigation) and Wisdom (Insight) checks made to discern your true identity or intentions.",dnd2024
+2269,Diplomat's Pack,,39 GP,39,39 lb.,[],"A Diplomat’s Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.",dnd2024
+2270,Druidic Focus,,Varies,,Varies,[],"A Druidic Focus takes one of the forms in the Druidic Focuses table and is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus.",dnd2024
+2271,Dungeoneer's Pack,,12 GP,12,55 lb.,[],"A Dungeoneer’s Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.",dnd2024
+2272,Entertainer's Pack,,40 GP,40,58½ lb.,[],"An Entertainer’s Pack contains the following items: Backpack, Bedroll, Bell, Bullseye Lantern, 3 Costumes, Mirror, 8 flasks of Oil, 9 days of Rations, Tinderbox, and Waterskin.",dnd2024
+2273,Explorer's Pack,,10 GP,10,55 lb.,[],"An Explorer’s Pack contains the following items: Backpack, Bedroll, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.",dnd2024
+2274,Flask,,2 GP,2,1 lb.,[],A Flask holds up to 1 pint.,dnd2024
+2275,Garb of Light and Shadow,,50 GP,50,-,[],"This garb appeals to Fey from one Domain of Delight, such as the Gloaming Court or the Summer Court. While wearing the garb, you have Advantage on ability checks to influence Fey associated with that Domain of Delight.",dnd2024
+2276,Genie Robe,,50 GP,50,-,[],"This robe appeals to Elementals associated with a particular Elemental Plane (Air, Earth, Fire, Water). While wearing a Genie Robe, you have Advantage on ability checks made to influence Elementals associated with that plane.",dnd2024
+2277,Holy Symbol,,Varies,,Varies,[],A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.,dnd2024
+2278,Holy Water,,25 GP,25,1 lb.,[],"When you take the Attack action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d8 Radiant damage if it is a Fiend or an Undead.",dnd2024
+2279,Ink,,10 GP,10,-,[],"Ink comes in a 1-ounce bottle, which provides enough ink to write about 500 pages.",dnd2024
+2280,Jug,,2 CP,0,4 lb.,[],A Jug holds up to 1 gallon.,dnd2024
+2281,Ladder,,1 SP,0,25 lb.,[],A Ladder is 10 feet tall. You must climb to move up or down it.,dnd2024
+2282,Locking Spellbook,,35 GP,35,-,[],"This 100-page leather-bound tome can be used as a Spellbook. It is closed with a lock that comes with a key. As a Utilize action, a creature can try to pick the lock using Thieves’ Tools, doing so with a successful DC 15 Dexterity (Sleight of Hand) check.",dnd2024
+2283,Map,,1 GP,1,-,[],"If you consult an accurate Map, you gain a +5 bonus to Wisdom (Survival) checks you make to find your way in the place represented on it.",dnd2024
+2284,Mirror,,5 GP,5,1/2 lb.,[],A handheld steel Mirror is useful for personal cosmetics but also for peeking around corners and reflecting light as a signal.,dnd2024
+2285,Monster Camouflage,,50 GP,50,-,[],"A suit of Monster Camouflage looks like a Beast or Monstrosity, such as an owlbear. To discern that you’re disguised, a creature must take the Study action to inspect your appearance and succeed on a DC 10 Intelligence (Investigation or Nature) check. The creature has Advantage on this check if it is within 30 feet of you and automatically succeeds on this check if you do anything the monster you’re disguised as couldn’t do.",dnd2024
+2286,Oil,,1 SP,0,1 lb.,[],"You can douse a creature, object, or space with Oil or use it as fuel, as detailed below. Dousing a Creature or an Object. When you take the Attack action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil. Dousing a Space. You can take the Utilize action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn. Fuel. Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn’t need to be consecutive; you can extinguish the burning Oil (as a Utilize action) and rekindle it again until it has burned for a total of 6 hours.",dnd2024
+2287,Paper,,2 SP,0,-,[],One sheet of Paper can hold about 250 handwritten words.,dnd2024
+2288,Parchment,,1 SP,0,-,[],One sheet of Parchment can hold about 250 handwritten words.,dnd2024
+2289,Perfume,,5 GP,5,-,[],"Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have Advantage on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within 5 feet of yourself.",dnd2024
+2290,"Poison, Basic",,100 GP,100,-,[],"As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra 1d4 Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.",dnd2024
+2291,Pole,,5 CP,0,7 lb.,[],"A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength (Athletics) check as part of a High or Long Jump, you can use the Pole to vault, giving yourself Advantage on the check.",dnd2024
+2292,Priest's Pack,,33 GP,33,29 lb.,[],"A Priest’s Pack contains the following items: Backpack, Blanket, Holy Water, Lamp, 7 days of Rations, Robe, and Tinderbox.",dnd2024
+2293,Rations,,5 SP,0,2 lb.,[],"Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See “Malnutrition” in the rules glossary for the risks of not eating.",dnd2024
+2294,Robe,,1 GP,1,4 lb.,[],A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols.,dnd2024
+2295,Rope,,1 GP,1,5 lb.,[],"As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check. You can bind an unwilling creature with the Rope only if the creature has the Grappled, Incapacitated, or Restrained condition. If the creature’s legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.",dnd2024
+2296,Scholar's Pack,,40 GP,40,22 lb.,[],"A Scholar’s Pack contains the following items: Backpack, Book, Ink, Ink Pen, Lamp, 10 flasks of Oil, 10 sheets of Parchment, and Tinderbox.",dnd2024
+2297,Spell Scroll (Level 1),,50 GP,50,-,[],"A Spell Scroll (Level 1) is a magic item that bears the words of a level 1 spell, respectively, determined by the scroll’s creator. If the spell is on your class’s spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components. If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.",dnd2024
+2298,"Spikes, Iron",,1 GP,1,5 lb.,[],"Iron Spikes come in bundles of ten. As a Utilize action, you can use a blunt object, such as a Light Hammer, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a Rope or Chain to the Spike.",dnd2024
+2299,String,,1 SP,0,-,[],String is 10 feet long. You can tie a knot in it as a Utilize action.,dnd2024
+2300,Tent,,2 GP,2,20 lb.,[],A Tent sleeps up to two Small or Medium creatures.,dnd2024
+2301,Warm Fungal Clothing,,15 GP,15,-,[],"When you’re wearing Warm Fungal Clothing, you automatically succeed on saving throws against the effects of extreme cold. See chapter 3 of the Dungeon Master’s Guide for rules on extreme cold. One pound of fungus is sewn into Fungal Clothing. This fungus can be eaten as food. Once all the fungus is consumed, this becomes a mundane set of Traveler’s Clothes.",dnd2024
+2302,Winter Camouflage,,50 GP,50,-,[],"While you wear Winter Camouflage in an appropriate environment, you have Advantage on Dexterity (Stealth) checks.",dnd2024
+2303,Axe Beak,,50 GP,50,,[],Imported from dnd2024 table,dnd2024
+2304,Flying Snake,,25 GP,25,,[],Imported from dnd2024 table,dnd2024
+2305,Mule,,8 GP,8,,[],Imported from dnd2024 table,dnd2024
+2306,Sled Dog,,50 GP,50,,[],Imported from dnd2024 table,dnd2024
+2307,Covered Wagon,,250 GP,250,"1,300 lb.",[],Imported from dnd2024 table,dnd2024
+2308,Dice,,1 SP,0,-,[],Imported from dnd2024 table,dnd2024
+2309,Dragonchess,,1 GP,1,-,[],Imported from dnd2024 table,dnd2024
+2310,Playing Cards,,5 SP,0,-,[],Imported from dnd2024 table,dnd2024
+2311,Three-dragon Ante,,1 GP,1,-,[],Imported from dnd2024 table,dnd2024
+2312,Arrows,,1 GP,1,1 lb.,[],Imported from dnd2024 table,dnd2024
+2313,Bolts,,1 GP,1,1 1/2 lb.,[],Imported from dnd2024 table,dnd2024
+2314,"Bullets, Firearm",,3 GP,3,2 lb.,[],Imported from dnd2024 table,dnd2024
+2315,"Bullets, Sling",,4 CP,0,1 1/2 lb.,[],Imported from dnd2024 table,dnd2024
+2316,Needles,,1 GP,1,1 lb.,[],Imported from dnd2024 table,dnd2024
+2317,A mummified goblin hand,,,,,[],Imported from dnd2024 table,dnd2024
+2318,A crystal that faintly glows in moonlight,,,,,[],Imported from dnd2024 table,dnd2024
+2319,A gold coin minted in an unknown land,,,,,[],Imported from dnd2024 table,dnd2024
+2320,A diary written in a language you don't know,,,,,[],Imported from dnd2024 table,dnd2024
+2321,A brass ring that never tarnishes,,,,,[],Imported from dnd2024 table,dnd2024
+2322,An old chess piece made from glass,,,,,[],Imported from dnd2024 table,dnd2024
+2323,"A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips",,,,,[],Imported from dnd2024 table,dnd2024
+2324,A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it,,,,,[],Imported from dnd2024 table,dnd2024
+2325,A lock of someone's hair,,,,,[],Imported from dnd2024 table,dnd2024
+2326,The deed for a parcel of land in a realm unknown to you,,,,,[],Imported from dnd2024 table,dnd2024
+2327,A 1-ounce block made from an unknown material,,,,,[],Imported from dnd2024 table,dnd2024
+2328,A small cloth doll skewered with needles,,,,,[],Imported from dnd2024 table,dnd2024
+2329,A tooth from an unknown beast,,,,,[],Imported from dnd2024 table,dnd2024
+2330,"An enormous scale, perhaps from a dragon",,,,,[],Imported from dnd2024 table,dnd2024
+2331,A bright-green feather,,,,,[],Imported from dnd2024 table,dnd2024
+2332,An old divination card bearing your likeness,,,,,[],Imported from dnd2024 table,dnd2024
+2333,A glass orb filled with moving smoke,,,,,[],Imported from dnd2024 table,dnd2024
+2334,A 1-pound egg with a bright-red shell,,,,,[],Imported from dnd2024 table,dnd2024
+2335,A pipe that blows bubbles,,,,,[],Imported from dnd2024 table,dnd2024
+2336,A glass jar containing a bit of flesh floating in a pickling fluid,,,,,[],Imported from dnd2024 table,dnd2024
+2337,A gnome-crafted music box that plays a song you dimly remember from your childhood,,,,,[],Imported from dnd2024 table,dnd2024
+2338,A wooden statuette of a smug halfling,,,,,[],Imported from dnd2024 table,dnd2024
+2339,A brass orb etched with strange runes,,,,,[],Imported from dnd2024 table,dnd2024
+2340,A multiclolored stone disk,,,,,[],Imported from dnd2024 table,dnd2024
+2341,A silver icon of a raven,,,,,[],Imported from dnd2024 table,dnd2024
+2342,"A bag containing forty-seven teeth, one of which is rotten",,,,,[],Imported from dnd2024 table,dnd2024
+2343,A shard of obsidian that always feels warm to the touch,,,,,[],Imported from dnd2024 table,dnd2024
+2344,A dragon's talon strung on a leather necklace,,,,,[],Imported from dnd2024 table,dnd2024
+2345,A pair of old socks,,,,,[],Imported from dnd2024 table,dnd2024
+2346,"A blank book whose pages refuse to hold ink, chalk, grapohite, or any other marking",,,,,[],Imported from dnd2024 table,dnd2024
+2347,A silver badge that is a five.pointed stat,,,,,[],Imported from dnd2024 table,dnd2024
+2348,A knife that belonged to a relative,,,,,[],Imported from dnd2024 table,dnd2024
+2349,A glass vial filled with nail clippings,,,,,[],Imported from dnd2024 table,dnd2024
+2350,A rectangular metal device with two tiny metal cups on one end that throws sparks when wet,,,,,[],Imported from dnd2024 table,dnd2024
+2351,"A white, sequined glove sized for a human",,,,,[],Imported from dnd2024 table,dnd2024
+2352,A vest with one hundred tiny pockets,,,,,[],Imported from dnd2024 table,dnd2024
+2353,A weightless stone,,,,,[],Imported from dnd2024 table,dnd2024
+2354,A sketch of a goblin,,,,,[],Imported from dnd2024 table,dnd2024
+2355,An empty glass vial that smells of perfume,,,,,[],Imported from dnd2024 table,dnd2024
+2356,A gemstone that looks like a lump of coal when examined by anyone but you,,,,,[],Imported from dnd2024 table,dnd2024
+2357,A scrap of cloth from an old banner,,,,,[],Imported from dnd2024 table,dnd2024
+2358,A rank insignia from a lost legionnaire,,,,,[],Imported from dnd2024 table,dnd2024
+2359,A silver bell without a clapper,,,,,[],Imported from dnd2024 table,dnd2024
+2360,A mechanical canary inside a lamp,,,,,[],Imported from dnd2024 table,dnd2024
+2361,A miniature chest carved to look like it has numerous feet on the bottom,,,,,[],Imported from dnd2024 table,dnd2024
+2362,A dead sprite inside a clear glass bottle,,,,,[],Imported from dnd2024 table,dnd2024
+2363,"A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice)",,,,,[],Imported from dnd2024 table,dnd2024
+2364,"A glass orb filled with water, in which swims a clockwork goldfish",,,,,[],Imported from dnd2024 table,dnd2024
+2365,A silver spoon with an M engraved on the handle,,,,,[],Imported from dnd2024 table,dnd2024
+2366,A whistle made from gold-colored wood,,,,,[],Imported from dnd2024 table,dnd2024
+2367,A dead scarab beetle the size of your hand,,,,,[],Imported from dnd2024 table,dnd2024
+2368,"Two toy soldiers, one missing a head",,,,,[],Imported from dnd2024 table,dnd2024
+2369,A small box filled with different-sized buttons,,,,,[],Imported from dnd2024 table,dnd2024
+2370,A candle that can't be lit,,,,,[],Imported from dnd2024 table,dnd2024
+2371,A miniature cage with no door,,,,,[],Imported from dnd2024 table,dnd2024
+2372,An old key,,,,,[],Imported from dnd2024 table,dnd2024
+2373,An indecipherable treasure map,,,,,[],Imported from dnd2024 table,dnd2024
+2374,A hilt from a broken sword,,,,,[],Imported from dnd2024 table,dnd2024
+2375,A rabbit’s foot,,,,,[],Imported from dnd2024 table,dnd2024
+2376,A glass eye,,,,,[],Imported from dnd2024 table,dnd2024
+2377,A cameo of a hideous person,,,,,[],Imported from dnd2024 table,dnd2024
+2378,A silver skull the size of a coin,,,,,[],Imported from dnd2024 table,dnd2024
+2379,An alabaster mask,,,,,[],Imported from dnd2024 table,dnd2024
+2380,A cone of sticky black incense that stinks,,,,,[],Imported from dnd2024 table,dnd2024
+2381,A nightcap that gives you pleasant dreams when you wear it,,,,,[],Imported from dnd2024 table,dnd2024
+2382,A single caltrop made from bone,,,,,[],Imported from dnd2024 table,dnd2024
+2383,A gold monocle frame without the lens,,,,,[],Imported from dnd2024 table,dnd2024
+2384,"A 1-inch cube, each side a different color",,,,,[],Imported from dnd2024 table,dnd2024
+2385,A crystal doorknob,,,,,[],Imported from dnd2024 table,dnd2024
+2386,A packet filled with pink dust,,,,,[],Imported from dnd2024 table,dnd2024
+2387,"A fragment of a beautiful song, written as musical notes on two pieces of parchment",,,,,[],Imported from dnd2024 table,dnd2024
+2388,A silver teardrop earring containing a real teardrop,,,,,[],Imported from dnd2024 table,dnd2024
+2389,An eggshell painted with scenes of misery in disturbing detail,,,,,[],Imported from dnd2024 table,dnd2024
+2390,"A fan that, when unfolded, shows a sleepy cat",,,,,[],Imported from dnd2024 table,dnd2024
+2391,A set of bone pipes,,,,,[],Imported from dnd2024 table,dnd2024
+2392,A four-leaf clover pressed inside a book discussing manners and etiquette,,,,,[],Imported from dnd2024 table,dnd2024
+2393,A sheet of parchment upon which is drawn a mechanical contraption,,,,,[],Imported from dnd2024 table,dnd2024
+2394,An ornate scabbard that fits no blade you have found,,,,,[],Imported from dnd2024 table,dnd2024
+2395,An invitation to a party where a murder happened,,,,,[],Imported from dnd2024 table,dnd2024
+2396,A bronze pentacle with an etching of a rat's head in its center,,,,,[],Imported from dnd2024 table,dnd2024
+2397,A purple handkerchief embroidered with the name of an archmage,,,,,[],Imported from dnd2024 table,dnd2024
+2398,"Half a floor plan for a temple, a castle, or another structure",,,,,[],Imported from dnd2024 table,dnd2024
+2399,"A bit of folded cloth that, when unfolded, turns into a stylish cap",,,,,[],Imported from dnd2024 table,dnd2024
+2400,A receipt of deposit at a bank in a far-off city,,,,,[],Imported from dnd2024 table,dnd2024
+2401,A diary with seven missing pages,,,,,[],Imported from dnd2024 table,dnd2024
+2402,An empty silver snuffbox bearing the inscription “dreams” on its lid,,,,,[],Imported from dnd2024 table,dnd2024
+2403,An iron holy symbol devoted to an unknown god,,,,,[],Imported from dnd2024 table,dnd2024
+2404,"A book about a legendary hero's rise and fall, with the last chapter missing",,,,,[],Imported from dnd2024 table,dnd2024
+2405,A vial of dragon blood,,,,,[],Imported from dnd2024 table,dnd2024
+2406,An ancient arrow of elven design,,,,,[],Imported from dnd2024 table,dnd2024
+2407,A needle that never bends,,,,,[],Imported from dnd2024 table,dnd2024
+2408,An ornate brooch of dwarven design,,,,,[],Imported from dnd2024 table,dnd2024
+2409,"An empty wine bottle bearing a pretty label that says, “The Wizard of Wines Winery, Red Dragon Crush, 331422-W""",,,,,[],Imported from dnd2024 table,dnd2024
+2410,"A mosaic tile with a multicolored, glazed surface",,,,,[],Imported from dnd2024 table,dnd2024
+2411,A petrified mouse,,,,,[],Imported from dnd2024 table,dnd2024
+2412,A black pirate flag adorned with a dragon's skull and crossbones,,,,,[],Imported from dnd2024 table,dnd2024
+2413,A tiny mechanical crab or spider that moves about when it's not being observed,,,,,[],Imported from dnd2024 table,dnd2024
+2414,"A glass jar containing lard with a label that reads, “Griffon Grease”",,,,,[],Imported from dnd2024 table,dnd2024
+2415,A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body,,,,,[],Imported from dnd2024 table,dnd2024
+2416,A metal urn containing the ashes of a hero,,,,,[],Imported from dnd2024 table,dnd2024
+2417,Assassin’s Blood,,150 GP,150,,[],"A creature subjected to Assassin’s Blood makes a DC 10 Constitution saving throw. On a failed save, the creature takes 6 (1d12) Poison damage and has the Poisoned condition for 24 hours. On a successful save, the creature takes half as much damage only.",dnd2024
+2418,Burnt Othur Fumes,,500 GP,500,,[],"A creature subjected to Burnt Othur Fumes must succeed on a DC 13 Constitution saving throw or take 10 (3d6) Poison damage, and it must repeat the save at the start of each of its turns. On each successive failed save, the creature takes 3 (1d6) Poison damage. After three successful saves, the poison ends.",dnd2024
+2419,Carrion Crawler Mucus,,200 GP,200,,[],"A creature subjected to Carrion Crawler Mucus must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 1 minute. The creature also has the Paralyzed condition while Poisoned in this way. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.",dnd2024
+2420,Essence of Ether,,300 GP,300,,[],A creature subjected to Essence of Ether must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 8 hours. The creature also has the Unconscious condition while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.,dnd2024
+2421,Lolth’s Sting,,200 GP,200,,[],"A creature subjected to Lolth’s Sting must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 1 hour. If the creature fails the save by 5 or more, the creature also has the Unconscious condition while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.",dnd2024
+2422,Malice,,250 GP,250,,[],A creature subjected to Malice must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 1 hour. The creature also has the Blinded condition while Poisoned in this way.,dnd2024
+2423,Midnight Tears,,"1,500 GP",1500,,[],"A creature that ingests Midnight Tears suffers no effect until the stroke of midnight. Any effect that ends the Poisoned condition neutralizes this poison. If the poison hasn’t been neutralized before midnight, the creature makes a DC 17 Constitution saving throw, taking 31 (9d6) Poison damage on a failed save or half as much damage on a successful one.",dnd2024
+2424,Oil of Taggit,,400 GP,400,,[],A creature subjected to Oil of Taggit must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 24 hours. The creature also has the Unconscious condition while Poisoned in this way. It wakes up if it takes damage.,dnd2024
+2425,Pale Tincture,,250 GP,250,,[],"A creature subjected to Pale Tincture must succeed on a DC 16 Constitution saving throw or take 3 (1d6) Poison damage and have the Poisoned condition. The Poisoned creature repeats the save every 24 hours, taking 3 (1d6) Poison damage on a failed save. The damage the poison deals can’t be healed by any means while the creature remains Poisoned. After seven successful saves against the poison, the creature is no longer Poisoned.",dnd2024
+2426,Purple Worm Poison,,"2,000 GP",2000,,[],"A creature subjected to Purple Worm Poison makes a DC 21 Constitution saving throw, taking 35 (10d6) Poison damage on a failed save or half as much damage on a successful one.",dnd2024
+2427,Serpent Venom,,200 GP,200,,[],"A creature subjected to Serpent Venom must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) Poison damage on a failed save or half as much damage on a successful one.",dnd2024
+2428,Torpor,,600 GP,600,,[],A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 4d6 hours. The creature’s Speed is halved while the creature is Poisoned in this way.,dnd2024
+2429,Truth Serum,,150 GP,150,,[],A creature subjected to Truth Serum must succeed on a DC 11 Constitution saving throw or have the Poisoned condition for 1 hour. The Poisoned creature can’t knowingly communicate a lie.,dnd2024
+2430,Wyvern Poison,,"1,200 GP",1200,,[],"A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, taking 24 (7d6) Poison damage on a failed save or half as much damage on a successful one.",dnd2024

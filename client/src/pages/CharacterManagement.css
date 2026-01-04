@@ -1,0 +1,147 @@
+.page-container {
+  padding: 20px;
+}
+
+.page-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.page-title {
+  text-align: center;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+.section-title {
+  text-align: center;
+}
+
+.character-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+/* Center the Create button and give it spacing */
+.create-button {
+  display: block;
+  margin: 0 auto 16px;
+}
+
+.character-card {
+  background: #222;
+  padding: 20px;
+  border-radius: 8px;
+  width: 280px;
+  color: #fff;
+}
+
+.character-card.active {
+  border: 2px solid var(--btn-border);
+  box-shadow: 0 8px 24px rgba(122,79,34,0.25);
+  transform: translateY(-4px);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, border 0.12s ease;
+}
+
+.character-name {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.character-meta p {
+  margin: 4px 0;
+}
+
+.attributes-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.attribute {
+  background: #333;
+  padding: 8px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.attr-label {
+  font-weight: bold;
+  display: block;
+}
+
+.attr-value {
+  font-size: 1.1rem;
+}
+
+.character-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;   /* centers horizontally */
+  gap: 20px;                 /* spacing between cards */
+  margin-top: 20px;
+}
+
+/* Compact action buttons used on character cards */
+.fantasy-button.use-button,
+.fantasy-button.delete-button {
+  padding: 6px 10px;
+  font-size: 0.85rem;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-right: 8px;
+  min-width: 0;
+}
+
+.fantasy-button.view-button {
+  padding: 6px 10px;
+  font-size: 0.85rem;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-right: 8px;
+  min-width: 0;
+}
+
+.character-view-panel {
+  background: linear-gradient(180deg, var(--header-bg-1), rgba(58,36,18,0.92));
+  border: 1px solid rgba(201,168,106,0.08); /* --btn-border subtle */
+  padding: 16px;
+  margin: 20px auto;
+  border-radius: 8px;
+  color: var(--text-color);
+  /* constrain width so viewer isn't full-bleed */
+  max-width: 980px;
+  width: min(96%, 980px);
+}
+
+.character-view-panel .view-header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+}
+
+.character-view-panel .view-grid {
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.character-view-panel .view-section h3 { margin: 0 0 8px 0; }
+.character-view-panel .pill { background: linear-gradient(180deg, rgba(74,46,21,0.12), rgba(122,79,34,0.06)); padding:8px; border-radius:6px; border:1px solid rgba(0,0,0,0.35); color:var(--btn-text); }
+.character-view-panel .notes { white-space:pre-wrap; background: rgba(0,0,0,0.25); padding:12px; border-radius:6px; color:var(--text-color); }
+.character-view-panel .view-section.full { grid-column: 1 / -1; }
+
+.fantasy-button.delete-button {
+  /* keep base button appearance from global `button` styles; only adjust spacing */
+}
+
+.fantasy-button.use-button {
+  /* keep base button appearance from global `button` styles; only adjust spacing */
+}

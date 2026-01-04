@@ -1,0 +1,154 @@
+:root {
+  --bg-overlay: rgba(0, 0, 0, 0.55);
+  --text-color: #f0f0f0;
+
+  /* Buttons */
+  --btn-grad-1: #4a2e15;
+  --btn-grad-2: #7a4f22;
+  --btn-text: #f5e6c8;
+  --btn-border: #c9a86a;
+  --btn-radius: 6px;
+  --btn-font: "Cinzel", serif;
+
+  /* Header */
+  --header-bg-1: #3a2412;
+  --header-bg-2: #5a3a1e;
+
+  /* Common sizes */
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  /* Compatibility variables for index.css referencing tokens */
+  --btn-padding: 10px 20px;
+  --btn-bg-1: var(--btn-grad-1);
+  --btn-bg-2: var(--btn-grad-2);
+  --btn-color: var(--btn-text);
+  --btn-font-size: 15px;
+  --btn-font-family: var(--btn-font);
+  --btn-text-shadow: 1px 1px 2px #000;
+  --btn-transition-time: 0.15s;
+  --btn-hover-translate: -2px;
+  --btn-hover-shadow: 0 4px 10px rgba(0,0,0,0.4);
+  --btn-active-translate: 0;
+  --btn-active-shadow: none;
+}
+
+/* Reusable fantasy button used across the app */
+.fantasy-button {
+  padding: 10px 20px;
+  background: linear-gradient(135deg, var(--btn-grad-1), var(--btn-grad-2));
+  color: var(--btn-text);
+  border: 2px solid var(--btn-border);
+  border-radius: var(--btn-radius);
+  cursor: pointer;
+  font-size: 15px;
+  font-family: var(--btn-font);
+  text-shadow: 1px 1px 2px #000;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.fantasy-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+}
+
+.fantasy-button:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+/* Response box and chatbox shared styles */
+.response-box {
+  width: 100%;
+  background: #111;
+  padding: 16px;
+  min-height: 180px;
+  max-height: 560px;
+  overflow-y: auto;
+  border-radius: 10px;
+  border: 1px solid #333;
+  margin-bottom: 20px;
+  white-space: pre-wrap;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.chatbox-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.chatbox-input {
+  width: 100%;
+  min-height: 100px;
+  padding: 12px;
+  background: #1a1a1a;
+  color: white;
+  border: 1px solid #444;
+  border-radius: 8px;
+  font-size: 15px;
+  resize: vertical;
+  line-height: 1.35;
+}
+
+.chatbox-send {
+  align-self: flex-end;
+  padding: 8px 14px;
+  background: #4a7a2f;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+/* Modal styles for session history */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.modal-card {
+  background: #161616;
+  border: 1px solid #333;
+  padding: 16px;
+  width: min(920px, 95%);
+  max-height: 84vh;
+  overflow: auto;
+  border-radius: 10px;
+}
+
+.session-messages {
+  background: #0f0f0f;
+  padding: 8px;
+  border-radius: 6px;
+  max-height: 40vh;
+  overflow: auto;
+}
+
+.session-message {
+  padding: 6px 8px;
+  border-bottom: 1px dashed rgba(255,255,255,0.03);
+}
+
+.session-message.assistant {
+  background: rgba(255,255,255,0.01);
+}
+
+.summary-pre {
+  background: #0b0b0b;
+  padding: 10px;
+  border-radius: 6px;
+  white-space: pre-wrap;
+}

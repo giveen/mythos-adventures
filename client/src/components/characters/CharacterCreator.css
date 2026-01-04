@@ -1,0 +1,68 @@
+/* Dark themed inputs for character creator */
+.cc-card {
+  padding: 20px;
+  background: #111;
+  border-radius: 8px;
+  border: 1px solid #2b2b2b;
+  color: var(--text-color);
+  /* Constrain width and center the card so it doesn't stretch full-screen */
+  max-width: 920px;
+  width: min(96%, 920px);
+  margin: 18px auto;
+}
+.cc-card h2 {
+  margin-top: 0;
+  color: var(--text-color);
+}
+.cc-row { margin-bottom: 12px; }
+.cc-label { display: block; margin-bottom: 6px; color: #e8d9c2; font-weight: 600; }
+.cc-input, .cc-select {
+  width: 100%;
+  padding: 8px 10px;
+  background: #0f0f0f;
+  color: var(--text-color);
+  border: 1px solid #333;
+  border-radius: 6px;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.02);
+}
+
+/* Smaller select used for compact fields like Race / Class / Alignment */
+.cc-select--small {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+}
+
+/* Inline row layout for compact fields (responsive) */
+.cc-row--inline {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.cc-row--inline .cc-field {
+  flex: 1 1 220px;
+  min-width: 160px;
+  display: flex;
+  flex-direction: column;
+}
+/* Narrow field variant for compact controls (e.g., starting spell) */
+.cc-field--narrow {
+  flex: 0 0 auto;
+  width: min(380px, 100%);
+  max-width: 100%;
+}
+.cc-textarea {
+  width: 100%;
+  min-height: 80px;
+  padding: 10px;
+  background: #0f0f0f;
+  color: var(--text-color);
+  border: 1px solid #333;
+  border-radius: 6px;
+  resize: vertical;
+}
+.cc-small-note { color: #bda67a; font-size: 0.95em; margin-top: 6px; }
+.cc-attrs { margin-top: 10px; }
+.cc-actions { margin-top: 16px; display:flex; gap:12px; }
+.cc-fantasy-btn { composes: fantasy-button; }

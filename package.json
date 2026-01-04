@@ -1,0 +1,12 @@
+{
+  "name": "mythos-adventures",
+  "version": "1.0.0",
+  "description": "LLM-powered D&D game with SQLite persistence",
+  "scripts": {
+    "start": "cd client && npm start",
+    "db:init": "node -e \"require('./client/src/services/dbService.js').initDatabase()\""
+  },
+  "dependencies": {
+    
+  }
+}
